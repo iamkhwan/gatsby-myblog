@@ -16,6 +16,9 @@ const PageTwo = () => (
             <Link to="/a-markdown-page/">Show me some Markdown!</Link>
           </li>
           <li>
+            <Link to="/first/">Show me first custom Markdown!</Link>
+          </li>
+          <li>
             <Link to="/">Take me back home.</Link>
           </li>
         </ul>
